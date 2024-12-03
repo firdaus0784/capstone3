@@ -1,0 +1,17 @@
+age,job,balance,housing,loan,contact,month,campaign,pdays,poutcome,deposit
+55,admin.,1662,no,no,cellular,jun,2,-1,unknown,yes
+39,self-employed,-3058,yes,yes,cellular,apr,3,-1,unknown,yes
+51,admin.,3025,no,no,cellular,may,1,352,other,yes
+38,services,-87,yes,no,cellular,may,1,-1,unknown,no
+36,housemaid,205,yes,no,telephone,nov,4,-1,unknown,no
+41,admin.,-76,yes,no,cellular,apr,1,-1,unknown,no
+37,admin.,4803,no,no,cellular,jan,2,-1,unknown,yes
+36,technician,911,yes,yes,cellular,may,2,21,failure,yes
+35,management,805,no,no,cellular,sep,1,-1,unknown,no
+57,housemaid,0,no,no,unknown,jun,1,-1,unknown,no
+23,student,1234,no,no,cellular,feb,1,91,success,yes
+33,housemaid,1107,yes,no,cellular,mar,1,-1,unknown,yes
+31,management,1170,no,no,cellular,aug,4,-1,unknown,no
+53,services,341,no,no,cellular,apr,2,-1,unknown,yes
+30,management,4808,no,no,cellular,mar,1,-1,unknown,yes
+38,technician,88,no,no,cellular,nov,2,186,success,yes
